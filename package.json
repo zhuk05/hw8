@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+    "start": "node server.js"
   },
   "author": "Eugene",
-  "bugs": {
-    "url": "https://github.com/zhuk05/hw8/issues"
+  "devDependencies": {
+    "parcel": "^2.13.3"
   },
-  "homepage": "https://github.com/zhuk05/hw8#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": ""
 }
