@@ -1,0 +1,13 @@
+{
+  "name": "hw8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Eugene",
+  "bugs": {
+    "url": "https://github.com/zhuk05/hw8/issues"
+  },
+  "homepage": "https://github.com/zhuk05/hw8#readme",
+}
